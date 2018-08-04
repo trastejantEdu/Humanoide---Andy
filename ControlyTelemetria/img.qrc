@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/icons">
+    <file>img/icon_ok.png</file>
+    <file>img/icon_cancel.png</file>
+  </qresource>
+  <qresource prefix="/images">
+    <file alias="modelo">img/modelo.jpg</file>
+  </qresource>
+</RCC>
